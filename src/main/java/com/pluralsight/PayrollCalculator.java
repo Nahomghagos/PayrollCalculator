@@ -16,7 +16,7 @@ public class PayrollCalculator {
 
         double grossRate;
         grossRate= hours * payRate;
-        System.out.println("your pay rate is " + grossRate);
+        System.out.println("your pay rate now is " + grossRate);
 
 
 
